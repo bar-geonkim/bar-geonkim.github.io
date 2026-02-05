@@ -897,3 +897,10 @@ div li.hide {
     background-color: #2a9d8f;
     color: #fff;
 }
+
+.pronunciation {
+  display: block;
+  font-size: 0.7em;
+  color: #888;
+  margin-top: 2px;
+}
